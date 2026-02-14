@@ -1,0 +1,132 @@
+{
+  "nodes": [
+    {
+      "heTitle": "הכנות לתפילה (ברכות השחר)",
+      "enTitle": "PreparatoryPrayers"
+    },
+    {
+      "heTitle": "מזמור לתודה",
+      "enTitle": "MizmorLeToda"
+    },
+    {
+      "heTitle": "תיקון חצות",
+      "enTitle": "TheMidnightRite"
+    },
+    {
+      "heTitle": "שחרית (חול)",
+      "enTitle": "WeekdayShacharit"
+    },
+    {
+      "heTitle": "תוספות לשחרית",
+      "enTitle": "AdditionsforShacharit"
+    },
+    {
+      "heTitle": "מנחה (חול)",
+      "enTitle": "WeekdayMincha"
+    },
+    {
+      "heTitle": "ערבית (חול)",
+      "enTitle": "WeekdayArvit"
+    },
+    {
+      "heTitle": "קריאת שמע על המיטה",
+      "enTitle": "BedtimeShema"
+    },
+    {
+      "heTitle": "ברכת המזון",
+      "enTitle": "PostMealBlessing"
+    },
+    {
+      "heTitle": "ברכת מעין שלוש (על המחיה)",
+      "enTitle": "AlHamihya"
+    },
+    {
+      "heTitle": "ברכות הנהנין",
+      "enTitle": "BlessingsonEnjoyments"
+    },
+    {
+      "heTitle": "ברכת הלבנה",
+      "enTitle": "BlessingoftheMoon"
+    },
+    {
+      "heTitle": "הדלקת נרות שבת",
+      "enTitle": "ShabbatCandleLighting"
+    },
+    {
+      "heTitle": "שיר השירים",
+      "enTitle": "SongofSongs"
+    },
+    {
+      "heTitle": "קבלת שבת",
+      "enTitle": "KabbalatShabbat"
+    },
+    {
+      "heTitle": "ערבית לשבת",
+      "enTitle": "ShabbatArvit"
+    },
+    {
+      "heTitle": "סדר ליל שבת (קידוש)",
+      "enTitle": "ShabbatEvening"
+    },
+    {
+      "heTitle": "שחרית לשבת",
+      "enTitle": "ShabbatShacharit"
+    },
+    {
+      "heTitle": "מוסף לשבת",
+      "enTitle": "ShabbatMussaf"
+    },
+    {
+      "heTitle": "קידוש ליום שבת",
+      "enTitle": "DaytimeMeal"
+    },
+    {
+      "heTitle": "מנחה לשבת",
+      "enTitle": "ShabbatMincha"
+    },
+    {
+      "heTitle": "סעודה שלישית",
+      "enTitle": "ThirdMeal"
+    },
+    {
+      "heTitle": "הבדלה",
+      "enTitle": "Havdalah"
+    },
+    {
+      "heTitle": "משניות לשבת",
+      "enTitle": "MishnaStudyforShabbat"
+    },
+    {
+      "heTitle": "ראש חודש",
+      "enTitle": "RoshHodesh"
+    },
+    {
+      "heTitle": "ברכת האילנות (ניסן)",
+      "enTitle": "Nissan"
+    },
+    {
+      "heTitle": "ספירת העומר",
+      "enTitle": "CountingoftheOmer"
+    },
+    {
+      "heTitle": "שלוש רגלים",
+      "enTitle": "PrayersforThreeFestivals"
+    },
+    {
+      "heTitle": "חנוכה",
+      "enTitle": "Hanukkah"
+    },
+    {
+      "heTitle": "פורים",
+      "enTitle": "Purim"
+    },
+    {
+      "heTitle": "תעניות ואבלות",
+      "enTitle": "FastDaysandMourning"
+    },
+    {
+      "heTitle": "ברכות שונות (חופה, מילה)",
+      "enTitle": "AssortedBlessingsandPrayers"
+    }
+  ]
+}
