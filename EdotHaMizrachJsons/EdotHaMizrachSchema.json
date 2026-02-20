@@ -2,131 +2,163 @@
   "nodes": [
     {
       "heTitle": "הכנות לתפילה (ברכות השחר)",
-      "enTitle": "PreparatoryPrayers"
+      "enTitle": "Preparatory Prayers",
+      "enKey": "PreparatoryPrayers"
     },
     {
       "heTitle": "מזמור לתודה",
-      "enTitle": "MizmorLeToda"
+      "enTitle": "Mizmor LeToda",
+      "enKey": "MizmorLeToda"
     },
     {
       "heTitle": "תיקון חצות",
-      "enTitle": "TheMidnightRite"
+      "enTitle": "The Midnight Rite",
+      "enKey": "TheMidnightRite"
     },
     {
       "heTitle": "שחרית (חול)",
-      "enTitle": "WeekdayShacharit"
+      "enTitle": "Weekday Shacharit",
+      "enKey": "WeekdayShacharit"
     },
     {
       "heTitle": "תוספות לשחרית",
-      "enTitle": "AdditionsforShacharit"
+      "enTitle": "Additions for Shacharit",
+      "enKey": "AdditionsforShacharit"
     },
     {
       "heTitle": "מנחה (חול)",
-      "enTitle": "WeekdayMincha"
+      "enTitle": "Weekday Mincha",
+      "enKey": "WeekdayMincha"
     },
     {
       "heTitle": "ערבית (חול)",
-      "enTitle": "WeekdayArvit"
+      "enTitle": "Weekday Arvit",
+      "enKey": "WeekdayArvit"
     },
     {
       "heTitle": "קריאת שמע על המיטה",
-      "enTitle": "BedtimeShema"
+      "enTitle": "Bedtime Shema",
+      "enKey": "BedtimeShema"
     },
     {
       "heTitle": "ברכת המזון",
-      "enTitle": "PostMealBlessing"
+      "enTitle": "Post Meal Blessing",
+      "enKey": "PostMealBlessing"
     },
     {
       "heTitle": "ברכת מעין שלוש (על המחיה)",
-      "enTitle": "AlHamihya"
+      "enTitle": "Al Hamihya",
+      "enKey": "AlHamihya"
     },
     {
       "heTitle": "ברכות הנהנין",
-      "enTitle": "BlessingsonEnjoyments"
+      "enTitle": "Blessings on Enjoyments",
+      "enKey": "BlessingsonEnjoyments"
     },
     {
       "heTitle": "ברכת הלבנה",
-      "enTitle": "BlessingoftheMoon"
+      "enTitle": "Blessing of the Moon",
+      "enKey": "BlessingoftheMoon"
     },
     {
       "heTitle": "הדלקת נרות שבת",
-      "enTitle": "ShabbatCandleLighting"
+      "enTitle": "Shabbat Candle Lighting",
+      "enKey": "ShabbatCandleLighting"
     },
     {
       "heTitle": "שיר השירים",
-      "enTitle": "SongofSongs"
+      "enTitle": "Song of Songs",
+      "enKey": "SongofSongs"
     },
     {
       "heTitle": "קבלת שבת",
-      "enTitle": "KabbalatShabbat"
+      "enTitle": "Kabbalat Shabbat",
+      "enKey": "KabbalatShabbat"
     },
     {
       "heTitle": "ערבית לשבת",
-      "enTitle": "ShabbatArvit"
+      "enTitle": "Shabbat Arvit",
+      "enKey": "ShabbatArvit"
     },
     {
       "heTitle": "סדר ליל שבת (קידוש)",
-      "enTitle": "ShabbatEvening"
+      "enTitle": "Shabbat Evening",
+      "enKey": "ShabbatEvening"
     },
     {
       "heTitle": "שחרית לשבת",
-      "enTitle": "ShabbatShacharit"
+      "enTitle": "Shabbat Shacharit",
+      "enKey": "ShabbatShacharit"
     },
     {
       "heTitle": "מוסף לשבת",
-      "enTitle": "ShabbatMussaf"
+      "enTitle": "Shabbat Mussaf",
+      "enKey": "ShabbatMussaf"
     },
     {
       "heTitle": "קידוש ליום שבת",
-      "enTitle": "DaytimeMeal"
+      "enTitle": "Daytime Meal",
+      "enKey": "DaytimeMeal"
     },
     {
       "heTitle": "מנחה לשבת",
-      "enTitle": "ShabbatMincha"
+      "enTitle": "Shabbat Mincha",
+      "enKey": "ShabbatMincha"
     },
     {
       "heTitle": "סעודה שלישית",
-      "enTitle": "ThirdMeal"
+      "enTitle": "Third Meal",
+      "enKey": "ThirdMeal"
     },
     {
       "heTitle": "הבדלה",
-      "enTitle": "Havdalah"
+      "enTitle": "Havdalah",
+      "enKey": "Havdalah"
     },
     {
       "heTitle": "משניות לשבת",
-      "enTitle": "MishnaStudyforShabbat"
+      "enTitle": "Mishna Study for Shabbat",
+      "enKey": "MishnaStudyforShabbat"
     },
     {
       "heTitle": "ראש חודש",
-      "enTitle": "RoshHodesh"
+      "enTitle": "Rosh Hodesh",
+      "enKey": "RoshHodesh"
     },
     {
       "heTitle": "ברכת האילנות (ניסן)",
-      "enTitle": "Nissan"
+      "enTitle": "Nissan",
+      "enKey": "Nissan"
     },
     {
       "heTitle": "ספירת העומר",
-      "enTitle": "CountingoftheOmer"
+      "enTitle": "Counting of the Omer",
+      "enKey": "CountingoftheOmer"
     },
     {
       "heTitle": "שלוש רגלים",
-      "enTitle": "PrayersforThreeFestivals"
+      "enTitle": "Prayers for Three Festivals",
+      "enKey": "PrayersforThreeFestivals"
     },
     {
       "heTitle": "חנוכה",
-      "enTitle": "Hanukkah"
+      "enTitle": "Hanukkah",
+      "enKey": "Hanukkah"
     },
     {
       "heTitle": "פורים",
-      "enTitle": "Purim"
+      "enTitle": "Purim",
+      "enKey": "Purim"
     },
     {
       "heTitle": "תעניות ואבלות",
-      "enTitle": "FastDaysandMourning"
+      "enTitle": "Fast Days and Mourning",
+      "enKey": "FastDaysandMourning"
     },
     {
       "heTitle": "ברכות שונות (חופה, מילה)",
-      "enTitle": "AssortedBlessingsandPrayers"
+      "enTitle": "Assorted Blessings and Prayers",
+      "enKey": "AssortedBlessingsandPrayers"
     }
   ]
 }
